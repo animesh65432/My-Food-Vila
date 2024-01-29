@@ -6,6 +6,7 @@ import Footer from "./Components/Footer";
 import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom";
 import Contact from "./Components/Contact";
 import About from "./Components/About";
+import Error from "./Components/Errror";
 
 const Main = () => (
   <React.Fragment>
@@ -19,6 +20,7 @@ const approuter = createBrowserRouter([
   {
     path: "/",
     element: <Main />,
+    errorElement: <Error />,
     children: [
       {
         path: "/",
