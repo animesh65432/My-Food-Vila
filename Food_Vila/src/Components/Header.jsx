@@ -1,4 +1,3 @@
-// Title component for display logo
 const Title = () => (
   <a href="/">
     <img
@@ -9,7 +8,7 @@ const Title = () => (
   </a>
 );
 
-// Header component for header section: Logo, Nav Items
+
 const Header = () => {
   return (
     <div className="header">
