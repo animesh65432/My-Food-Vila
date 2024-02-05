@@ -1817,3 +1817,9 @@ export const restaurantList = [
 ];
 export const IMG_CDN_URL =
   "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/";
+
+export const jane = "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fHww"
+
+export const  john = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbFFoUsfEyylsop4ZnAupe8kEEGH0gMY2vSiakPgGOLF8wm0kTkRu40vyBkOIhNv3gZUc&usqp=CAU "
+
+export const  Mike = "https://img.freepik.com/premium-photo/attractive-man-points-with-both-hands-himself-handsome-guy-proposes-smiles_324489-2222.jpg"
