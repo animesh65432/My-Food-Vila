@@ -1823,3 +1823,6 @@ export const jane = "https://images.unsplash.com/photo-1500648767791-00dcc994a43
 export const  john = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbFFoUsfEyylsop4ZnAupe8kEEGH0gMY2vSiakPgGOLF8wm0kTkRu40vyBkOIhNv3gZUc&usqp=CAU "
 
 export const  Mike = "https://img.freepik.com/premium-photo/attractive-man-points-with-both-hands-himself-handsome-guy-proposes-smiles_324489-2222.jpg"
+
+export const food_vila_picture =
+  "https://th.bing.com/th/id/R.dd4d1acde8fc22ed40fbce3acde6e99a?rik=%2b8JTWnyz2QTWFg&riu=http%3a%2f%2ffoodvilla.no%2fsrc%2fimg%2flogo.png&ehk=Wphc3mBmMYs0rOR4MjkO1zykcVnnjbx6MEDy3h1PSkw%3d&risl=&pid=ImgRaw&r=0";
